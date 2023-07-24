@@ -1,0 +1,12 @@
+.navbar {
+  background-color: red;
+}
+.navitems {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navitem {
+  padding: 10px;
+}
